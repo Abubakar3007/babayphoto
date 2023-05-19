@@ -1,0 +1,42 @@
+.bwp-copyright {
+    color: #232323;
+    font-size: 14px;
+    font-weight: 400;
+    background: transparent;
+    font-family: Lato,sans-serif;
+    margin-top: 80px;
+    
+}
+.containercopy{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+.row{
+    border-top: 1px solid #d9d7d5;
+   
+}
+.contentbay{
+    width: 50%;
+    padding-top: 10px;
+}
+.sectionHeading.newborn{
+    margin-top: 60px;
+    color: #A29793;
+    font-size: 22px;
+    margin-bottom: 20px;
+
+}
+.sectionHeading h2{
+    font-weight: bold;
+}
+@media(max-width:768px){
+    .contentbay{
+        width: 100%;
+    
+    
+}
+.containercopy{
+    padding: 10px;
+}
+    
+}
